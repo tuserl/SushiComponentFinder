@@ -11,7 +11,7 @@ public class ComponentSearchWindow : EditorWindow
 
     private readonly List<ComponentResult> results = new();
 
-    [MenuItem("Tools/Component Search")]
+    [MenuItem("Tools/Sushi Tools/(OLD) Component Finder")]
     public static void ShowWindow()
     {
         GetWindow<ComponentSearchWindow>("Component Search");
