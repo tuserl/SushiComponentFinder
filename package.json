@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "displayName": "Sushi Component Finder",
   "description": "Unity Editor tool for searching, selecting, and removing components across scene GameObjects.",
-/*  "unity": "6000.2", */
   "author": {
     "name": "Sushi"
   }
